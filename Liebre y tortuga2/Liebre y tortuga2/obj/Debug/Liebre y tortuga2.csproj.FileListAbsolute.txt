@@ -1,0 +1,10 @@
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre y tortuga2.csprojResolveAssemblyReference.cache
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre_y_tortuga2.Form1.resources
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre_y_tortuga2.Properties.Resources.resources
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre y tortuga2.csproj.GenerateResource.Cache
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre y tortuga2.csproj.CoreCompileInputs.cache
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\bin\Debug\Liebre y tortuga2.exe.config
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\bin\Debug\Liebre y tortuga2.exe
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\bin\Debug\Liebre y tortuga2.pdb
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre y tortuga2.exe
+C:\Users\20136163\Desktop\Liebre y tortuga2\Liebre y tortuga2\obj\Debug\Liebre y tortuga2.pdb
